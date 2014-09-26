@@ -7,4 +7,10 @@ abc123
 a
 uuuuuu
 test
+<<<<<<< HEAD
 w
+=======
+
+test1
+test2
+>>>>>>> 138382a4e35978f725c9e7198c3dde43b7b44340
