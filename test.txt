@@ -1,11 +1,27 @@
-﻿テストabbbbbbbb
+﻿njmgkrjorfwejioテストabbbbbbbb
 テスト
 aaaaaaaa_div
+<<<<<<< HEAD
 Test02
 abc123
 いいいいい
 a
 uuuuuu
 test
+<<<<<<< HEAD
 w
+<<<<<<< HEAD
 ﾎﾉｶﾁｬﾝかわいい
+=======
+=======
+
+test1
+test2
+>>>>>>> 138382a4e35978f725c9e7198c3dde43b7b44340
+=======
+ver2
+
+aaaaaiiiiiii
+activity
+>>>>>>> e570ab1d67c11946a4619229aa75c30af90c3843
+>>>>>>> 73d30611b72675c1ddf39b28c1718d39183752ef
